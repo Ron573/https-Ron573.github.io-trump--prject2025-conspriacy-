@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/banner.png"</p>
+  <img src="./assets/banner.png" alt="Project Banner" width="750">
+</p>p>
 # Criminal Conspiracy and Project 2025  
 **Author:** Ronald J. Botelho  
 **Copyright:** © 2025 Ronald J. Botelho  
