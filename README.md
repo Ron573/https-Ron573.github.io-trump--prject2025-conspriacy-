@@ -1,3 +1,5 @@
+<p a;ign+"center">
+  <img src="./og.banner.png" alt=</p>
 # Criminal Conspiracy and Project 2025  
 **Author:** Ronald J. Botelho  
 **Copyright:** © 2025 Ronald J. Botelho  
