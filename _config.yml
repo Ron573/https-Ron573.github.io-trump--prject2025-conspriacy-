@@ -1,0 +1,7 @@
+title: Criminal Conspiracy and Project 2025
+description: Memorandum, references, disclaimer, and MIT License by Ronald J. Botelho.
+theme: null
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
